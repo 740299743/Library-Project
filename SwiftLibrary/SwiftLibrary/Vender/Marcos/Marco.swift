@@ -72,8 +72,6 @@ func DInfoLog(format: AnyObject, args: CVarArgType...){
     #endif
 }
 
-
-
 //MARK:- currentLanguage
 func LLCurrentLanguage() -> String {
     return NSLocale.preferredLanguages().first!

@@ -10,7 +10,6 @@ import UIKit
 
 extension UIColor
 {
-    
     //MARK:- init(red:,green:,blue:)
     convenience init(red: Int, green: Int, blue: Int) {
         assert(red >= 0 && red <= 255, "Invalid red component")
