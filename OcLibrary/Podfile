@@ -1,0 +1,16 @@
+platform :ios, '8.0'
+
+pod "AFNetworking"
+pod 'Masonry'
+pod "Aspects"
+##pod 'EaseMobSDKFull'
+pod 'JSONModel'
+pod 'SDWebImage'
+pod 'MJRefresh'
+##pod 'EaseUI', :git => 'https://github.com/easemob/easeui-ios-cocoapods.git'
+pod 'FLAnimatedImage'
+
+pod 'Alamofire'
+pod 'MBProgressHUD'
+
+
